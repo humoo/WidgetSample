@@ -1,0 +1,3 @@
+rootProject.name = "WidgetSample"
+include ':app'
+include ':zhxumao-widget'
